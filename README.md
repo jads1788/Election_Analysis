@@ -30,8 +30,11 @@ Basic concepts:
                                     Diane
                 a.2)slicing: used to get a specific items from lists.
                     e.g.: list[start : end]
-                b) dynamic structure: items can be added or removed/
-                    list.append(index, object) 
+                b) dynamic structure: items can be added or removed
+                    to add:
+                        list.append(object)
+                    to add in a specific index place:
+                        list.insert(index, object)
                     list.remove(object)
                     list.pop(object)
                 To create an empty list that has not been declared, use list_name = [], or use function list_name = list()
@@ -55,4 +58,10 @@ Basic concepts:
     		To get a specific value, 2 methods:
 			    dict_name.get("key_name")
 			    dict_name['key_name']
-            
+    
+    Decision Statements
+        If statements
+            Comparison Statements
+        If-Else Statements
+        Nested If-Else Statements (if-elif-else)
+    
