@@ -1,4 +1,4 @@
-# Election_Analysis
+# Polling_Analysis
 Python3
 
 Basic concepts:
